@@ -1,11 +1,6 @@
 # CyberpunkVR Port
 
-A 6-DoF **VR mod for Cyberpunk 2077**, built as a **RED4ext plugin** -
-`CyberpunkVR_Stereo` is the ONLY native plugin: it drives OpenXR head
-tracking, real stereo, the in-headset overlay and the **full-body VR avatar with
-motion-controlled hands** that used to live in a second DLL; and a set of CET / redscript mods add VR
-weapon aiming, the physical reload, motion melee, hand-to-holster equipping and more. Everything is
-configured from an in-headset **F10** overlay.
+`CyberpunkVR_Stereo` SR display implementation
 
 Repository: <https://github.com/dariulone/cyberpunk-vr-port>
 
